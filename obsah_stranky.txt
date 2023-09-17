@@ -1,21 +1,24 @@
 1. Predstavenie návštevníkom na domovskej stránke:
 
 Vitajte na mojich osobných stránkach!
-Som Levo,
-váš cestovateľ digitálnym priestorom. S piatimi rokmi skúseností ako vášnivý PYTHON programátor, sa pohybujem medzi kódovaním a tvorbou so ZÁPALOM a nekonečnou KREATIVITOU.
+Som Robert,
+váš cestovateľ digitálnym priestorom. S dvoma rokmi skúseností ako vášnivý PYTHON programátor, sa pohybujem medzi kódovaním a tvorbou so ZÁPALOM a nekonečnou KREATIVITOU.
 
 2. Podrobnejší popis na stránku "O mne":
 
-o_mne_text = "Prvý kontakt s programovaním som mal ešte v študentských časoch a odvtedy sa moje kódovanie stalo súčasťou môjho DNA. Mojím poslaním je prinášať riešenia prostredníctvom kódu, ktoré majú skutočný dopad na svet. Vo svojej voľnej chvíli ma nájdete buď hlboko ponoreného do nového projektu alebo hľadajúceho inšpiráciu v prírode a technológii."
+o_mne_text = "Prvý kontakt s programovaním som mal ešte v študentských časoch a
+odvtedy sa moje kódovanie stalo súčasťou môjho DNA. Mojím poslaním je prinášať
+riešenia prostredníctvom kódu, ktoré majú skutočný dopad na svet.
+Vo svojej voľnej chvíli ma nájdete buď hlboko ponoreného do nového projektu alebo
+hľadajúceho inšpiráciu v prírode a technológii."
 
 3. Zoznam mojich technologických zručností:
 
 tech_schopnosti = [
     "Python",
-    "Django",
     "Pandas",
-    "Matplotlib",
-    "Scikit-learn",
+    "Java",
+    "SQL",
 ]
 
 4. Zoznam mojich mäkkých zručností (Soft skills):
@@ -30,11 +33,11 @@ makke_schopnosti = [
 
 5. Email:
 
-levo@fake.mail
+mudronrobert@gmail.com
 
 6. LinkedIn:
 
-https://linkedin.com/in/levo
+https://linkedin.com/in/robertmudron
 
 7. Pracovné skúsenosti:
 (id - unikátny identifikátor, logo - cesta k obrázku s logom, nazov - zobrazi sa na prvom riadku hlavicky, popis - zobrazi sa na druhom riadku hlavicky, obsah - list s podrobnostami k danej skúsenosti)
